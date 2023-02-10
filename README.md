@@ -2,6 +2,8 @@
 Link for app https://drive.google.com/file/d/1Ac8HdLiDcMKGEkGS5v2IsIp8QQsyZS0O/view?usp=sharing
 ARBook App made with using Unity + Vuforia + c#
 
+https://www.instagram.com/p/CfSC8PPh0fT/
+
 
 The application allows you to track the target image and see AE effect in real world
 
